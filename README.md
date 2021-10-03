@@ -1,3 +1,8 @@
+# Hi, I'm C.J.
+I work in InfoSec, but I have broad interests in many areas of IT. Most of my interests are driven by my love for programming. Whenever I want to learn more about a technology or have an idea to make my life easier, it becomes a project on my GitHub. I hope you find something you think is cool or useful!
+
+Here's some information on my projects and contributions:
+
 ![](https://raw.githubusercontent.com/lawndoc/github-stats-transparent/output/generated/languages.svg)
 ![](https://raw.githubusercontent.com/lawndoc/github-stats-transparent/output/generated/overview.svg)
 
