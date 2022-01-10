@@ -10,7 +10,7 @@ I work in InfoSec, but I have broad interests encompassing many areas of IT. Mos
 
 **Connect with me on social media:**
 <p align="left">
-<a href="https://twitter.com/lawnd0c" target="blank"><img align="center" src="https://raw.githubusercontent.com/lawndoc/lawndoc/main/resources/twitter.svg" alt="lawnd0c" height="30" width="40" /></a>
+<a href="https://twitter.com/lawndoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/lawndoc/lawndoc/main/resources/twitter.svg" alt="lawndoc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cj-may" target="blank"><img align="center" src="https://raw.githubusercontent.com/lawndoc/lawndoc/main/resources/linked-in-alt.svg" alt="cj-may" height="30" width="40" /></a>
 <a href="https://instagram.com/cj__may" target="blank"><img align="center" src="https://raw.githubusercontent.com/lawndoc/lawndoc/main/resources/instagram.svg" alt="cj__may" height="30" width="40" /></a>
 
