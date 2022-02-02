@@ -17,10 +17,6 @@ I work in InfoSec, but I have broad interests encompassing many areas of IT. Mos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OwnCA&repo=ownca&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=3c4043&bg_color=ffffff00&show_owner=true)](https://github.com/OwnCA/ownca)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lawndoc&repo=AdvancedHuntingQueries&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=3c4043&bg_color=ffffff00)](https://github.com/lawndoc/AdvancedHuntingQueries)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lawndoc&repo=CAPy&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=3c4043&bg_color=ffffff00)](https://github.com/lawndoc/CAPy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lawndoc&repo=RanSim&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=3c4043&bg_color=ffffff00)](https://github.com/lawndoc/RanSim)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lawndoc&repo=commander&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=3c4043&bg_color=ffffff00)](https://github.com/lawndoc/commander)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lawndoc&repo=CTFs&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=3c4043&bg_color=ffffff00)](https://github.com/lawndoc/CTFs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lawndoc&repo=CTFs&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=3c4043&bg_color=ffffff00)](https://github.com/lawndoc/CTFs)
 
 
 **Connect with me on social media:**
