@@ -5,8 +5,7 @@ I work in InfoSec, but I have broad interests encompassing many areas of IT. Mos
 
 **Here's some information on my projects and contributions:**
 
-![](https://raw.githubusercontent.com/lawndoc/github-stats-transparent/output/generated/languages.svg)
-![](https://raw.githubusercontent.com/lawndoc/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/lawndoc/github-stats-transparent/output/generated/languages.svg) ![](https://raw.githubusercontent.com/lawndoc/github-stats-transparent/output/generated/overview.svg)
 
 ---
 
@@ -21,12 +20,9 @@ I work in InfoSec, but I have broad interests encompassing many areas of IT. Mos
 
 ### ✨ My top repos: ✨
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lawndoc&repo=jaws&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00)](https://github.com/lawndoc/jaws)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lawndoc&repo=mediator&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00)](https://github.com/lawndoc/mediator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lawndoc&repo=foxception&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00)](https://github.com/lawndoc/foxception)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OwnCA&repo=ownca&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00&show_owner=true)](https://github.com/OwnCA/ownca)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lawndoc&repo=AdvancedHuntingQueries&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00)](https://github.com/lawndoc/AdvancedHuntingQueries)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lawndoc&repo=RanSim&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00)](https://github.com/lawndoc/RanSim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lawndoc&repo=jaws&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00)](https://github.com/lawndoc/jaws) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lawndoc&repo=mediator&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00)](https://github.com/lawndoc/mediator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lawndoc&repo=foxception&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00)](https://github.com/lawndoc/foxception) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OwnCA&repo=ownca&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00&show_owner=true)](https://github.com/OwnCA/ownca)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lawndoc&repo=AdvancedHuntingQueries&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00)](https://github.com/lawndoc/AdvancedHuntingQueries) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lawndoc&repo=RanSim&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00)](https://github.com/lawndoc/RanSim)
 
 ---
 
