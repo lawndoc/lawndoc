@@ -1,5 +1,5 @@
 ### Hi, I'm C.J. :)
-I work in InfoSec, but I have broad interests encompassing many areas of IT. Most of my interests are driven by my curiosity and love for programming. Whenever I think of something cool or have an idea to make my life easier, it becomes a project on my GitHub. If you find one of my projects useful, please consider becoming a sponsor so I can dedicate more time to my open source work.
+I work in InfoSec, but I have broad interests encompassing many areas of IT. Most of my interests are driven by my curiosity and love for programming and automation. Whenever I think of something cool or have an idea to make my life easier, it becomes a project on my GitHub. If you find one of my projects useful, please consider becoming a sponsor so I can dedicate more time to my open source work.
 
 ### [💗 My GitHub Sponsor Page](https://github.com/sponsors/lawndoc)
 
