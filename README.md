@@ -7,7 +7,7 @@ I work in InfoSec, but I have broad interests encompassing many areas of IT. Mos
 
 ![](https://raw.githubusercontent.com/lawndoc/github-stats-transparent/output/generated/languages.svg) ![](https://raw.githubusercontent.com/lawndoc/github-stats-transparent/output/generated/overview.svg)
 
----https://github-readme-stats-lawndoc.vercel.app/
+---
 
 ### ✨ My top repos: ✨
 
