@@ -1,5 +1,6 @@
 ### Hi, I'm C.J.
-I work in InfoSec, but I have broad interests encompassing many areas of IT. Most of my interests are driven by my curiosity and love for programming and automation. Whenever I think of something cool or have an idea to make my life easier, it becomes a project on my GitHub.
+
+I work in InfoSec. Whenever I think of something cool or have an idea to make my life easier, it becomes a project on my GitHub.
 
 **Here's some information on my projects and contributions:**
 
@@ -9,8 +10,12 @@ I work in InfoSec, but I have broad interests encompassing many areas of IT. Mos
 
 ### ✨ My top repos: ✨
 
-[![Readme Card](https://github-readme-stats.lawndoc.vercel.app/api/pin/?username=lawndoc&repo=jaws&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00)](https://github.com/lawndoc/jaws) [![Readme Card](https://github-readme-stats.lawndoc.vercel.app/api/pin/?username=lawndoc&repo=RanSim&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00)](https://github.com/lawndoc/RanSim) [![Readme Card](https://github-readme-stats.lawndoc.vercel.app/api/pin/?username=lawndoc&repo=Respotter&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00)](https://github.com/lawndoc/Respotter) [![Readme Card](https://github-readme-stats.lawndoc.vercel.app/api/pin/?username=lawndoc&repo=AdvancedHuntingQueries&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00)](https://github.com/lawndoc/AdvancedHuntingQueries)
-[![Readme Card](https://github-readme-stats.lawndoc.vercel.app/api/pin/?username=lawndoc&repo=stack-back&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00&show_owner=false)](https://github.com/lawndoc/stack-back) [![Readme Card](https://github-readme-stats.lawndoc.vercel.app/api/pin/?username=lawndoc&repo=mediator&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00)](https://github.com/lawndoc/mediator)
+[![Readme Card](https://github-readme-stats.lawndoc.vercel.app/api/pin/?username=lawndoc&repo=jaws&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00)](https://github.com/lawndoc/jaws)
+[![Readme Card](https://github-readme-stats.lawndoc.vercel.app/api/pin/?username=lawndoc&repo=RanSim&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00)](https://github.com/lawndoc/RanSim)
+[![Readme Card](https://github-readme-stats.lawndoc.vercel.app/api/pin/?username=lawndoc&repo=Respotter&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00)](https://github.com/lawndoc/Respotter)
+[![Readme Card](https://github-readme-stats.lawndoc.vercel.app/api/pin/?username=lawndoc&repo=stack-back&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00&show_owner=false)](https://github.com/lawndoc/stack-back)
+[![Readme Card](https://github-readme-stats.lawndoc.vercel.app/api/pin/?username=lawndoc&repo=AdvancedHuntingQueries&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00)](https://github.com/lawndoc/AdvancedHuntingQueries)
+[![Readme Card](https://github-readme-stats.lawndoc.vercel.app/api/pin/?username=lawndoc&repo=mediator&title_color=5091ff&text_color=7c8083&icon_color=7c8083&border_color=88888850&bg_color=ffffff00)](https://github.com/lawndoc/mediator)
 
 ---
 
