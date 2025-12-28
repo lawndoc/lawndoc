@@ -1,6 +1,6 @@
 ### Hi, I'm C.J.
 
-I work in InfoSec. Whenever I think of something cool or have an idea to make my life easier, it becomes a project on my GitHub.
+Whenever I think of something cool or have an idea to make my life easier, it becomes a project on my GitHub.
 
 **Here's some information on my projects and contributions:**
 
